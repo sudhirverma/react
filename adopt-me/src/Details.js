@@ -6,10 +6,6 @@ import ThemeContext from "./ThemeContext";
 import { navigate } from "@reach/router";
 import Modal from "./Modal";
 
-// const Details = () => {
-//   return <h1>Hi lol</h1>;
-// };
-
 class Details extends React.Component {
   state = { loading: true, showModal: false };
 
