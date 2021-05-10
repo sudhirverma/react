@@ -1,6 +1,6 @@
 import React from "react";
 import { hydrate } from "react-dom";
-import App from "./app";
+import App from "./App";
 
 // any other browser-only things
 
